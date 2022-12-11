@@ -1,0 +1,20 @@
+.tilt-logo {
+	transform-style: preserve-3d;
+
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(168, 245, 168);
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	transform: translateZ(20px);
+}
+
+.logo h1 {
+	color: white;
+	font-size: 20px;
+}
